@@ -4,5 +4,6 @@
   "uuid": "debuglogging@jonathan.jdoda.ca",
   "shell-version": [
     "45"
-  ]
+  ],
+  "url": "https://github.com/jdoda/debuglogging"
 }

@@ -19,7 +19,7 @@ import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 import GLib from 'gi://GLib';
 
 
-export default class PlainExampleExtension extends Extension {
+export default class DebugLoggingExtension extends Extension {
     enable() {
         GLib.log_set_debug_enabled(true)
     }

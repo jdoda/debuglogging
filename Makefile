@@ -1,4 +1,4 @@
-build/debuglogging@jonathan.jdoda.ca.shell-extension.zip : extension.js metadata.json stylesheet.css
+build/debuglogging@jonathan.jdoda.ca.shell-extension.zip : extension.js metadata.json
 	mkdir -p build
 	gnome-extensions pack --force -o build
 	
