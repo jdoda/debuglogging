@@ -3,7 +3,8 @@
   "description": "Turns on GNOME Shell debug logging.",
   "uuid": "debuglogging@jonathan.jdoda.ca",
   "shell-version": [
-    "45"
+    "45",
+    "46"
   ],
   "url": "https://github.com/jdoda/debuglogging"
 }
